@@ -1,1 +1,0 @@
-Print("Hello maine pura setup sir s krwaya hai!!!")
