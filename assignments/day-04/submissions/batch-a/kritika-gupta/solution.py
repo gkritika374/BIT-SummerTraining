@@ -3,9 +3,9 @@
 #Create a list of 5 student names. Add one new student name to the list and print the final list.
 
 
-students = ["Kritika", "Aprajita", "Shalu", "Sita", "Harshita"]
-students.append("Ayush")
-print("STUDENTS:", students)
+students = ["Aman", "Priya", "Shalu", "Raj", "Ansh"]
+students.append("Vivek")
+print(students)
 
 ## Question 2: Tuple Indexing
 
@@ -13,7 +13,7 @@ print("STUDENTS:", students)
 
 
 cities = ("Mumbai", "Kolkata", "Delhi", "Chennai", "Jaipur")
-print("CITY:", cities[2])
+print(cities[2])
 
 ## Question 3: Set Add
 
@@ -22,7 +22,7 @@ print("CITY:", cities[2])
 
 courses = {"Python", "SQL", "Machine Learning", "Data Analytics"}
 courses.add("AI")
-print("The courses are as follows:", sorted(courses))
+print(sorted(courses))
 
 ## Question 4: Dictionary Access
 
@@ -30,13 +30,12 @@ print("The courses are as follows:", sorted(courses))
 
 
 student_info = {
-"name": "Kritika",
-"course": "Python ",
+"name": "Rahul",
+"course": "Python Data AI ",
 "batch": "Batch-A",
 "city": "Gorakhpur"
 }
 
-print("Student info:")
 print("Name:", student_info["name"])
 print("Course:", student_info["course"])
 
@@ -48,7 +47,7 @@ print("Course:", student_info["course"])
 numbers = list(range(1, 11))
 even_numbers = [num for num in numbers if num % 2 == 0]
 
-print("Even numbers:", even_numbers)
+print(even_numbers)
 
 ## Question 6: Count Word Frequency
 
@@ -108,7 +107,6 @@ for student in python_students:
 # Sort the list alphabetically
 common_students.sort()
 
-print("Common students in both courses:")
 print(common_students)
 
 
