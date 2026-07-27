@@ -59,6 +59,7 @@ assignments/day-06/submissions/batch-a/your-name/solution.py
 or
 
 ```txt
+
 assignments/day-06/submissions/batch-b/your-name/solution.py
 ```
 
@@ -72,6 +73,8 @@ Most assignments need only `solution.py`. If an assignment specifically asks for
 
 ```txt
 assignments/day-07/submissions/batch-a/rahul/solution.py
+
+
 assignments/day-07/submissions/batch-a/rahul/sales_data.csv
 ```
 
@@ -80,6 +83,7 @@ assignments/day-07/submissions/batch-a/rahul/sales_data.csv
 Run the file before committing it:
 
 ```bash
+git pull origin main
 python3 assignments/day-06/submissions/batch-a/your-name/solution.py
 ```
 
@@ -102,6 +106,7 @@ git add assignments/day-07/submissions/batch-a/your-name/solution.py
 git add assignments/day-07/submissions/batch-a/your-name/sales_data.csv
 git commit -m "Add Day 7 assignment by Your Name"
 git push origin day-07-your-name
+
 ```
 
 ## 6. Create the Pull Request

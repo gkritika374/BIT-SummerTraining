@@ -21,7 +21,6 @@ import numpy as np
 ## Questions
 
 ### Question 1: Create a NumPy Array
-
 Create a one-dimensional NumPy array containing these marks and print it:
 
 ```python
