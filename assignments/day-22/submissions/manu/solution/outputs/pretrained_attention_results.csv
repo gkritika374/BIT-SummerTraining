@@ -1,0 +1,11 @@
+sentence,token_count,most_attended_token,mean_hidden_state_norm
+The cat sat on the mat.,9,.,12.414855
+The dog chased the ball because it was excited.,12,.,11.430161
+The dog chased the ball because it was tired.,12,.,11.625027
+The teacher gave the student a book.,10,.,11.714274
+The scientist studied the virus in the laboratory.,11,.,11.867805
+The keys to the cabinet are on the table.,12,.,12.007245
+The keys to the cabinet is on the table.,12,.,11.799718
+The movie was not good.,8,.,12.659453
+The movie was good.,7,.,12.6673
+The boy who the girl saw was smiling.,11,[SEP],12.251272
